@@ -1,20 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Payin7_Payments",
-    "type": "magento-module",
-    "license": "GNU-General-Public-License-(GPL)",
-    "homepage": "",
-    "description": "Payin7 offers the clients the opportunity of choosing between two products: Pay in 7 days or Finance Payment (http://www.payin7.com)
-
-----
-
-Payin7 ofrece a los clientes la oportunidad de elegir entre dos productos: Pago en 7 días o Pago financiado",
-    "authors": [
-    {
-        "name": "Payin7.com",
-        "email": "info@payin7.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
